@@ -1,0 +1,20 @@
+Git Commands :
+1. TO Check to version 
+   git --version
+2. Initialized empty Folder  :
+   git init
+3. Check the Staus :
+   git status
+4. Add file into stage :
+   git add filename
+5. Add all files into stage :
+   git add .
+5 . Commit the work 
+   git commit -m "Done"
+6. Check log entry
+   git log
+7.  Add user name and email
+     
+   git config --global user.name "shubham"
+   git config --global user.email "gshubham934@gmail.com
+   
