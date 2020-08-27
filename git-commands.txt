@@ -13,8 +13,6 @@ Git Commands :
    git commit -m "Done"
 6. Check log entry
    git log
-7.  Add user name and email
-     
+7.  Add user name and email  
    git config --global user.name "shubham"
    git config --global user.email "gshubham934@gmail.com
-   
